@@ -1,0 +1,31 @@
+@import "../../styles/colors.css";
+
+.root {
+}
+
+.image {
+  background-blend-mode: overlay;
+  width: 100%;
+  border-radius: 12px;
+  height: 120px;
+  margin-bottom: 4px;
+}
+
+.text {
+  padding: 0px 4px;
+}
+
+.title {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.38px;
+}
+
+.subtitle {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 10px;
+  letter-spacing: 0.38px;
+  color: var(--color-gray);
+}

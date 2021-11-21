@@ -1,0 +1,11 @@
+.tickWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px;
+}
+
+.second {
+  font-size: 96px;
+  color: var(--color-dark-blue);
+}

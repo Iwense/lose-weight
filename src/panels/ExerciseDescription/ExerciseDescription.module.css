@@ -1,0 +1,23 @@
+@import "../../styles/colors.css";
+
+.title {
+  color: var(--color-black);
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: 0.38px;
+  font-weight: 500;
+}
+
+.wrapper {
+  padding: 12px;
+  margin-bottom: 150px;
+}
+
+.footer {
+  position: fixed;
+  height: fit-content;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+}

@@ -1,0 +1,28 @@
+@import "../../styles/colors.css";
+
+.root {
+  margin: 12px 0;
+  display: flex;
+  justify-content: space-between;
+  gap: 4px;
+  background: var(--color-soft-purple);
+  border-radius: 12px;
+  padding: 12px 24px 12px 24px;
+}
+
+.textWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  justify-content: center;
+}
+
+.title {
+  font-size: 16px;
+  color: var(--color-dark-blue);
+}
+
+.subtitle {
+  font-size: 12px;
+  color: var(--color-dark-blue);
+}

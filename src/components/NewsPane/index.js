@@ -1,0 +1,1 @@
+export {NewsPane} from './NewsPane'

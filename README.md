@@ -1,0 +1,1 @@
+// "deploy": "vk-miniapps-deploy"
